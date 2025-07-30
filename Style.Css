@@ -18,8 +18,8 @@ img{
 
 }
 button{
-    color: black;
+    color: red;
     margin:    auto;
-    border: solid 2px black;
+    border: solid 2px red;
     border-radius: 5px;
 }
