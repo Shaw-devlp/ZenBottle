@@ -1,6 +1,7 @@
 body{ 
-background-image: "https://www.google.com/imgres?q=website%20white%20nature%20background%20images&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F039%2F667%2F308%2Fsmall%2Fai-generated-banner-blossom-snowdrops-on-a-clearing-in-the-snow-in-spring-spring-concept-nature-awakening-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fwhite-nature&docid=UhpPr5wJBpaGKM&tbnid=F1n3K2NY_lV8fM&vet=12ahUKEwiA5ODBp-KOAxWyafUHHf6kIUsQM3oECBYQAA..i&w=357&h=200&hcb=2&ved=2ahUKEwiA5ODBp-KOAxWyafUHHf6kIUsQM3oECBYQAA";
+    background-image: "../images/background.jpg";
 }
+
 p{
     border: solid 2px black;
 border-radius: 10px;
